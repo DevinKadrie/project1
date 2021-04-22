@@ -1,0 +1,3 @@
+êReimbursement{r_id=1, amount=200.0, submitted=null, resolved=null, description='test description', r_author=1, r_resolver=2, status=0, type=3}
+íReimbursement{r_id=2, amount=500.0, submitted=null, resolved=null, description='test description 2', r_author=1, r_resolver=2, status=1, type=2}
+íReimbursement{r_id=3, amount=800.0, submitted=null, resolved=null, description='test description 3', r_author=2, r_resolver=2, status=0, type=3}

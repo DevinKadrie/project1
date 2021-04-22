@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dao.ReimbursementDAOTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-24T21:03:56" hostname="DESKTOP-3DMR9N6" time="0.239">
+  <properties/>
+  <testcase name="readReimbursements()" classname="dao.ReimbursementDAOTest" time="0.239"/>
+  <system-out><![CDATA[Reimbursement{r_id=1, amount=200.0, submitted=null, resolved=null, description='test description', r_author=1, r_resolver=2, status=0, type=3}
+Reimbursement{r_id=2, amount=500.0, submitted=null, resolved=null, description='test description 2', r_author=1, r_resolver=2, status=1, type=2}
+Reimbursement{r_id=3, amount=800.0, submitted=null, resolved=null, description='test description 3', r_author=2, r_resolver=2, status=0, type=3}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
