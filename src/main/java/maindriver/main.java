@@ -14,7 +14,7 @@ public class main {
     public static void main(String[] args) {
         Javalin app = Javalin.create((config) ->{
             config.addStaticFiles("/client");
-        }).start(6969);
+        }).start(9005);
 
         app.get("/hello", (context) ->{
            context.result("hello world").status(200);
