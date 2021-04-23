@@ -32,4 +32,4 @@ Then, go into your browser and go to localhost on port 9005. to see the financia
 Feel free to explore the site. 
 
 login page:![Opening landing page](https://github.com/DevinKadrie/project1/blob/main/Capture.PNG)
-This project uses the following license:Â [<license_name>](https://github.com/PorkodiVenkatesh/PROJECT-NAME/blob/master/link).
+This project uses the following license:Â [<liscense>](https://github.com/PorkodiVenkatesh/PROJECT-NAME/blob/master/link).
