@@ -30,3 +30,5 @@ If you would like to clone this repository, use the following link https://githu
 To run the project, open the folder that contains the git repo in your IDE, then run the main to start the server. 
 Then, go into your browser and go to localhost on port 9005. to see the financial manager's page, type "test5" for the username, and "password" for the password. To see the employee page, login with "employee1" and "password".
 Feel free to explore the site. 
+
+login page:![Opening landing page](https://github.com/DevinKadrie/project1/blob/main/Capture.PNG)
